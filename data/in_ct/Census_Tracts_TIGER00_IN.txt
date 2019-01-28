@@ -1,0 +1,1084 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: (creation): U.S. Department of Commerce, U.S. Census Bureau
+      Originator: (conversion): AVENZA Systems Inc.
+      Originator: (compilation): Bernardin, Lochmueller and Associates
+      Publication_Date: 20021000
+      Title:
+        Census_Tracts_TIGER00_IN: Indiana Census Tracts 2000
+        (U.S. Census Bureau, 1:100,000, Polygon Shapefile)
+      Edition: Census 2000
+      Geospatial_Data_Presentation_Form: Vector digital data
+      Publication_Information:
+        Publication_Place: Evansville, IN
+        Publisher: Bernardin, Lochmueller and Associates
+      Online_Linkage: http://igs.indiana.edu/arcims/statewide/download.html
+      Other_Citation_Details:
+        Dataset is one layer in the Indiana Statewide GIS Database
+        funded by Indiana Department of Transportation.  Data is from U.S. Department
+        of Commerce, U.S. Census Bureau, Census 2000 Tiger Line Files and SF1 tables. This
+        layer is compiled from shapefiles created by AVENZA Systems, Inc.
+        To find out more about TIGER/Line files and other Census TIGER data base derived
+        data sets visit http://www.census.gov/geo/www/tiger
+
+  Description:
+    Abstract:
+      Census_Tracts_TIGER00_IN contains locations for all Indiana tracts identified
+      by the US Bureau of the Census. Data is from U.S. Department of Commerce, U.S. Census
+      Bureau, Census 2000 Tiger Line Files and SF1 tables.
+    Purpose:
+      BROAD, GENERAL information for planning, development, and research
+      in Indiana
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2000
+    Currentness_Reference: Census 2000 TIGER database
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -88.0157
+      East_Bounding_Coordinate: -86.8562
+      North_Bounding_Coordinate: 38.5276
+      South_Bounding_Coordinate: 37.3724
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: Geography Network Keyword Thesaurus
+      Theme_Keyword: society 
+	  Theme_Keyword: boundaries 
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Feature Identifier
+      Theme_Keyword: Census Tracts
+      Theme_Keyword: Census
+      Theme_Keyword: Statistical Boundary
+      Theme_Keyword: Polygon
+      Theme_Keyword: TIGER/Line
+      Theme_Keyword: Demographic
+      Theme_Keyword: Minorities
+      Theme_Keyword: Age
+      Theme_Keyword: Population
+      Theme_Keyword: Home Ownership
+      Theme_Keyword: Families
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Indiana
+      Place_Keyword: Adams County
+      Place_Keyword: Allen County
+      Place_Keyword: Bartholomew County
+      Place_Keyword: Benton County
+      Place_Keyword: Blackford County
+      Place_Keyword: Boone County
+      Place_Keyword: Brown County
+      Place_Keyword: Carroll County
+      Place_Keyword: Cass County
+      Place_Keyword: Clark County
+      Place_Keyword: Clay County
+      Place_Keyword: Clinton County
+      Place_Keyword: Crawford County
+      Place_Keyword: Daviess County
+      Place_Keyword: Dearborn County
+      Place_Keyword: Decatur County
+      Place_Keyword: DeKalb County
+      Place_Keyword: Delaware County
+      Place_Keyword: Dubois County
+      Place_Keyword: Elkhart County
+      Place_Keyword: Fayette County
+      Place_Keyword: Floyd County
+      Place_Keyword: Fountain County
+      Place_Keyword: Franklin County
+      Place_Keyword: Fulton County
+      Place_Keyword: Gibson County
+      Place_Keyword: Grant County
+      Place_Keyword: Greene County
+      Place_Keyword: Hamilton County
+      Place_Keyword: Hancock County
+      Place_Keyword: Harrison County
+      Place_Keyword: Hendricks County
+      Place_Keyword: Henry County
+      Place_Keyword: Howard County
+      Place_Keyword: Huntington County
+      Place_Keyword: Jackson County
+      Place_Keyword: Jasper County
+      Place_Keyword: Jay County
+      Place_Keyword: Jefferson County
+      Place_Keyword: Jennings County
+      Place_Keyword: Johnson County
+      Place_Keyword: Knox County
+      Place_Keyword: Kosciusko County
+      Place_Keyword: Lagrange County
+      Place_Keyword: Lake County
+      Place_Keyword: LaPorte County
+      Place_Keyword: Lawrence County
+      Place_Keyword: Madison County
+      Place_Keyword: Marion County
+      Place_Keyword: Marshall County
+      Place_Keyword: Martin County
+      Place_Keyword: Miami County
+      Place_Keyword: Monroe County
+      Place_Keyword: Montgomery County
+      Place_Keyword: Morgan County
+      Place_Keyword: Newton County
+      Place_Keyword: Noble County
+      Place_Keyword: Ohio County
+      Place_Keyword: Orange County
+      Place_Keyword: Owen County
+      Place_Keyword: Parke County
+      Place_Keyword: Perry County
+      Place_Keyword: Pike County
+      Place_Keyword: Porter County
+      Place_Keyword: Posey County
+      Place_Keyword: Pulaski County
+      Place_Keyword: Putnam County
+      Place_Keyword: Randolph County
+      Place_Keyword: Ripley County
+      Place_Keyword: Rush County
+      Place_Keyword: Scott County
+      Place_Keyword: Shelby County
+      Place_Keyword: Spencer County
+      Place_Keyword: Starke County
+      Place_Keyword: Steuben County
+      Place_Keyword: St Joseph County
+      Place_Keyword: Sullivan County
+      Place_Keyword: Switzerland County
+      Place_Keyword: Tippecanoe County
+      Place_Keyword: Tipton County
+      Place_Keyword: Union County
+      Place_Keyword: Vanderburgh County
+      Place_Keyword: Vermillion County
+      Place_Keyword: Vigo County
+      Place_Keyword: Wabash County
+      Place_Keyword: Warren County
+      Place_Keyword: Warrick County
+      Place_Keyword: Washington County
+      Place_Keyword: Wayne County
+      Place_Keyword: Wells County
+      Place_Keyword: White County
+      Place_Keyword: Whitley County
+  Access_Constraints: None
+  Use_Constraints:
+    DATA DISCLAIMER
+    This data set was compiled by Bernardin, Lochmueller and Associates,
+    using data believed to be accurate; however, a degree of error
+    is inherent in all data. This product is distributed "AS-IS" without
+    warranties of any kind, either expressed or implied, including but not
+    limited to warranties of suitability of a particular purpose or use. No
+    attempt has been made in either the designed format or production of these data to
+    define the limits or jurisdiction of any federal, state, or local government.
+    These data are intended for use only at the published scale or smaller and are for
+    reference purposes only. They are not to be construed as a legal document or survey
+    instrument. A detailed on-the-ground survey and historical analysis of a single
+    site may differ from this data.
+    CREDIT
+    Acknowledgment of the U.S. Census Bureau would be appreciated
+    for products derived from these files.  TIGER, TIGER/Line, and Census
+    TIGER are registered trademarks of the U.S. Census Bureau.  ZCTA is a
+    trademark of the U.S. Census Bureau.
+    Please acknowledge AVENZA Systems Inc. for shapefile conversion.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Bernardin, Lochmueller and Associates
+        Contact_Person: Cinda Bonds
+      Contact_Position: Environmental Biologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 6200 Vogel Road
+        City: Evansville
+        State_or_Province: IN
+        Postal_Code: 47715-4006
+        Country: USA
+      Contact_Voice_Telephone: 800-423-7411
+      Contact_Facsimile_Telephone: 812-479-6262
+      Contact_Electronic_Mail_Address: cbonds@blainc.com
+      Hours_of_Service: 8am-5pm CST
+
+  Data_Set_Credit:
+    Indiana Statewide GIS database was produced under an Indiana Department of
+    Transportation contract. Data is from U.S. Department of Commerce, U.S. Census
+    Bureau, Census 2000 Tiger Line Files and SF1 tables.
+    US Census Bureau requests -
+
+    "Acknowledgment of the U.S. Census Bureau would be appreciated for products derived from 
+    these files.  TIGER, TIGER/Line, and Census TIGER are registered trademarks of the U.S. 
+    Census Bureau.  ZCTA is a trademark of the U.S. Census Bureau."
+
+    AVENZA Systems Inc. is acknowledged for shapefile conversion.
+  Native_Data_Set_Environment: ArcView version 3.2 shapefile format
+
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      US Census Bureau, TIGER metadata reports-
+
+      "Accurate against Federal information Processing Standards (FIPS),
+      FIPS Publication 6-4, and FIPS-55 at the 100% level for the codes
+      and base names.  The remaining attribute information has been
+      examined but has not been fully tested for accuracy."
+
+  Logical_Consistency_Report:
+    US Census Bureau, TIGER metadata reports -
+
+    "The feature network of lines (as represented by Record Types 1 and 2)
+    is compete for census purposes.  Spatial objects in TIGER/Line belong
+    to the "Geometry and Topology" (GT) class of objects in the "Spatial
+    Data Transfer Standard" (SDTS) FIPS Publication 173 and are
+    topologically valid.  Node/geometry and topology (GT)-polygon/chain
+    relationships are collected or generated to satisfy topological edit
+    requirements.  These requirements include:
+
+    * Complete chains must begin and end at nodes.
+
+    * Complete chains must connect to each other at nodes.
+
+    * Complete chains do not extend through nodes.
+
+    * Left and right GT-polygons are defined for each complete chain
+    element and are consistent throughout the extract process.
+
+    * The chains representing the limits of the files are free of gaps.
+
+    The Census Bureau performed automated tests to ensure logical
+    consistency and limits of files.  All polygons are tested for closure.
+    The Census Bureau uses its internally developed Geographic Update
+    System to enhance and modify spatial and attribute data in the Census
+    TIGER data base.  Standard geographic codes, such as FIPS codes for
+    states, counties, municipalities, and places, are used when encoding
+    spatial entities.  The Census Bureau performed spatial data tests for
+    logical consistency of the codes during the compilation of the original
+    Census TIGER data base files.  Most of the Codes themselves were provided
+    to the Census Bureau by the USGS, the agency responsible for maintaining
+    FIPS 55. Feature attribute information has been examined but has not been
+    fully tested for consistency."
+
+  Completeness_Report:
+    US Census Bureau, TIGER metadata Reports -
+
+    "Data completeness of the TIGER/Line files reflects the contents of the
+    Census TIGER data base at the time the TIGER/Line files (Census 2000
+    version) were created."
+
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        US Census Bureau, TIGER metadata reports -
+
+        "The information present in these files is provided for the purposes
+        of statistical analysis and census operations only.  Coordinates
+        in the TIGER/Line files have six implied decimal places, but
+        the positional accuracy of these coordinates is not as great as
+        the six decimal places suggest.  The positional accuracy varies
+        with the source materials used, but generally the information is
+        no better than the established national map Accuracy standards
+        for 1:100,000-scale maps from the U.S. Geological Survey (USGS);
+        thus it is NOT suitable for high-precision measurement applications
+        such as engineering problems, property transfers, or other uses
+        that might require highly accurate measurements of the earth's
+        surface.  The USGS 1:100,000-scale maps met national map accuracy
+        standards and use coordinates defined by the North American Datum,
+        1983.  For the contiguous 48 States, the cartographic fidelity of
+        most of the Census 2000 TIGER/Line files, in areas outside the
+        1980 census Geographic Base File/Dual Independent map Encoding
+        (GBF/DIME) file coverage and selected other large metropolitan
+        areas, compare favorably with the USGS 1:100,000-scale maps.  The
+        Census Bureau cannot specify the accuracy of features inside of
+        what was the 1980 GBF/DIME-File coverage or selected metropolitan
+        areas.  The Census Bureau added updates to the TIGER/Line files that
+        enumerators annotated on maps sheets prepared from the Census
+        TIGER data base as they attempted to traverse every street feature
+        shown on the Census 2000 map sheets; the Census Bureau also made
+        other corrections from updated map sheets supplied by local
+        participants for Census Bureau programs.  The locational accuracy
+        of these updates is of unknown quality.  In addition to the Federal,
+        State, and local sources, portions of the files may contain
+        information obtained in part from maps and other materials prepared
+        by private companies.  Despite the fact the TIGER/Line data positional
+        accuracy is not as high as the coordinate values imply, the six-
+        decimal place precision is useful when producing maps.  The precision
+        allows features that are next to each other on the ground to be placed
+        in the correct position, on the map, relative to each other, without
+        overlap."
+
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report:
+        Vertical accuracy was not a factor in the digital production
+        of the data set. No quantitative tests were performed.
+
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Department of Commerce, U.S. Census Bureau, Geography Division
+          Publication_Date: unpublished material
+          Title: Census TIGER data base
+          Edition: Census 2000
+      Type_of_Source_Media: on line
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 20000101
+        Source_Currentness_Reference: Date files made available to create extracts
+      Source_Citation_Abbreviation: TIGER database
+      Source_Contribution:
+        Selected geographic and cartographic information (line segments)
+        from the Census TIGER data base.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Department of Commerce, U.S. Census Bureau, Geography Division
+          Publication_Date: 20010101
+          Title: Tiger/Line Files, Census 2000
+          Edition: Census 2000
+          Series_Information:
+            Series_Name: Tiger/Line Files
+            Issue_Identification: Version (MMYY) represents month and year file created
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: U.S. Department of Commerce, U.S. Census Bureau, Geography Division
+          Online_Linkage: http://www.census.gov/geo/www/tiger
+      Source_Scale_Denominator: 100,000
+      Type_of_Source_Media: digital
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 20000101
+        Source_Currentness_Reference: census 2000 Data
+      Source_Citation_Abbreviation: TIGER Line Files
+      Source_Contribution:
+        source of original nationwide data and attribute values,
+        transformed and modified by originators of later derived products.
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: AVENZA Systems Inc.
+          Publication_Date: 20020100
+          Title: MAPdata USA 2000
+          Edition: 2000
+          Publication_Information:
+            Publication_Place: Mississauga, Ontario, CANADA
+            Publisher: Avenza Systems, Inc.
+      Type_of_Source_Media: vector digital data
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 20000101
+        Source_Currentness_Reference: Census 2000 data release
+      Source_Citation_Abbreviation: AVENZA
+      Source_Contribution: Shapefiles created using features of the TIGER Line/Files
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Environmental Systems Research Institute (ESRI)
+          Publication_Date: 20020100
+          Title: Tiger Redistricting 2000 Census Data SF1 Table
+          Edition: Census 2000
+          Publication_Information:
+            Publication_Place: Redlands, California, USA
+            Publisher: Environmental Systems Research Institute (ESRI)
+          Online_Linkage: http://www.geographynetwork.com/
+      Type_of_Source_Media: tabular digital data
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 20000101
+        Source_Currentness_Reference: Census 2000 data release
+      Source_Citation_Abbreviation: SF1
+      Source_Contribution: SF1 tables were joined to the shapes to provide census demographic attributes.
+
+    Process_Step:
+      Process_Description:
+        US Census Bureau, TIGER metadata reports-
+
+        "In order for others to use the information in the Census TIGER
+        data base in a GIS or for other geographic applications, the
+        Census Bureau releases periodic extracts of selected information
+        from the Census TIGER data base, organized as topologically
+        consistent networks.  Software (TIGER DB routines) written by
+        the Geography Division allows for efficient access to Census
+        TIGER system data.  TIGER/Line files are extracted from the
+        Census TIGER data base by county or statistical equivalent
+        area.  Census TIGER data for a given county or statistical
+        equivalent area is then distributed among 17 fixed length
+        record ASCII files, each one containing attributes for either
+        line, polygon, or landmark geographic data types.  The Census
+        Bureau has released various versions of the TIGER/Line files
+        since 1988, with each version having more updates (feature
+        and feature names, address ranges and ZIP Codes, coordinate
+        updates, revised field definitions, etc.) than the previous
+        version." 
+
+        "TIGER/Line files are created and processed in a VMS
+        environment.  The environment consists of two Alpha Server
+        8400s clustered together running OpenVMS version 6.2-1H3 used
+        for production operations.  The Census TIGER system is driven
+        by DEC Command language (DCL) procedures which invoke C
+        software routines to extract selected geographic and cartographic
+        information (TIGER/Line files) from the operational Census TIGER data base."
+
+      Source_Used_Citation_Abbreviation: TIGER database
+      Process_Date: 20000101
+      Source_Produced_Citation_Abbreviation: TIGER Line Files
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization:
+              U.S. Department of Commerce, U.S. Census Bureau
+              Geography Division
+            Contact_Person: Unknown
+          Contact_Position: Products and Services Staff
+          Contact_Address:
+            Address_Type: physical address
+            Address: 8903 Presidential Parkway, Room 303 WP I
+            City: Upper Marlboro
+            State_or_Province: Maryland
+            Postal_Code: 20772
+            Country: USA
+          Contact_Voice_Telephone: 301-457-1128
+          Contact_Address:
+            Address_Type: Mailing address
+            Address: 4700 Silver Hill Road, Stop 7400
+            City: Washington
+            State_or_Province: District of Columbia
+            Postal_Code: 20233-7400
+          Contact_Voice_Telephone: 301-457-1128
+          Contact_Facsimile_Telephone:
+            301-457-4710
+            Contact_Electronic _Mail_Address: tiger@census.gov
+
+    Process_Step:
+      Process_Description:
+        AVENZA Systems Inc assembled and organized TIGER/Line Files into shapefiles
+        for individual counties.
+      Source_Used_Citation_Abbreviation: TIGER Line Files
+      Process_Date: 20020101
+      Source_Produced_Citation_Abbreviation: AVENZA
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: AVENZA Systems Inc
+            Contact_Person: Edward Florence
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 6505 Mississauga Road, Unit B
+            City: Mississauga
+            State_or_Province: Ontario
+            Postal_Code: L5N 1A6
+            Country: Canada
+          Contact_Voice_Telephone: 905-567-2811
+          Contact_Facsimile_Telephone: 905-567-5810
+          Contact_Electronic_Mail_Address:
+            info@avenza.com
+            Contact_Website:  www.avenza.com
+
+    Process_Step:
+      Process_Description:
+        Bernardin, Lochmueller and Associates merged county tract files
+        into one state file and joined SF1 tabular data to the
+        unique tract ID and FIPs code field. Data was transformed to UTM83 Zone 16.
+      Source_Used_Citation_Abbreviation: AVENZA and SF1
+      Process_Date: 20020824
+      Source_Produced_Citation_Abbreviation: Census_Tracts_TIGER00_IN
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: Bernardin, Lochmueller and Associates
+            Contact_Person: Cinda Bonds
+          Contact_Position: Environmental Biologist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 6200 Vogel Road
+            City: Evansville
+            State_or_Province: Indiana
+            Postal_Code: 47715
+            Country: USA
+          Contact_Voice_Telephone: 812-479-6200
+          Contact_Facsimile_Telephone: 812-479-6262
+          Contact_Electronic_Mail_Address:
+            cbonds@blainc.com
+            Contact_Website:  www.blainc.com
+    Process_Step:
+      Process_Description:
+        The following field was deleted from the dbf table using ESRI ArcView 3.2 
+        because the fields provided little or no information:  'State'.
+        The file was saved as a UTM 16, NAD83 projection.
+      Source_Used_Citation_Abbreviation: Census_Tracts_TIGER00_IN
+      Process_Date: 20030620
+      Source_Produced_Citation_Abbreviation: Census_Tracts_TIGER00_IN
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: Bernardin, Lochmueller and Associates
+            Contact_Person: Neal Schroeder
+          Contact_Position: Environmental Planner/Geographer
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 6200 Vogel Road
+            City: Evansville
+            State_or_Province: IN
+            Postal_Code: 47715
+            Country: USA
+          Contact_Voice_Telephone: 812-479-6200
+          Contact_Facsimile_Telephone:
+            812-479-6262
+            Contact_Website:  www.blainc.com 
+    Process_Step:
+      Process_Description:
+        This metadata was pre-parsed and parsed using CNS (Chew and Spit. v 2.6.1) and
+        MP (Metadata Parser, v 2.7.1) software written by Peter N. Schweitzer (United
+        States Geological Survey).  The errors generated by MP were all
+        addressed and corrected, except that no values were assigned to
+        "Abscissa_Resolution" and "Ordinate_Resolution."
+      Process_Date: 20030620
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: Bernardin, Lochmueller and Associates
+            Contact_Person: Neal Schroeder
+          Contact_Position: Geographer, Environmental Planner
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 6200 Vogel Road
+            City: Evansville
+            State_or_Province: IN
+            Postal_Code: 47715-4006
+            Country: USA
+          Contact_Voice_Telephone: 800-423-7411
+          Contact_Facsimile_Telephone: 812-479-6262
+          Contact_Electronic_Mail_Address: nschroeder@blainc.com
+          Hours_of_Service: 8am-5pm CST
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference: Indiana
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 1414
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: Universal Transverse Mercator
+        Universal_Transverse_Mercator:
+          UTM_Zone_Number: 16
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.999600
+            Longitude_of_Central_Meridian: -87.000000
+            Latitude_of_Projection_Origin: 0.000000
+            False_Easting: 500000.000000
+            False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Coordinate Pair
+        Coordinate_Representation:
+          Abscissa_Resolution:
+          Ordinate_Resolution:
+        Planar_Distance_Units: Meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS 80
+      Semi-major_Axis: 6378137.0000000
+      Denominator_of_Flattening_Ratio: 298.26
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Census_Tracts_TIGER00_IN
+      Entity_Type_Definition: Shapefile Attribute Table
+      Entity_Type_Definition_Source: None
+    Attribute:
+      Attribute_Label: ID
+      Attribute_Definition: unique identification
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: Fipsstco
+      Attribute_Definition: Combination of state and county FIPS codes.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character Field
+    Attribute:
+      Attribute_Label: Trt2000
+      Attribute_Definition: The census tract identification number.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character Field
+    Attribute:
+      Attribute_Label: Stfid
+      Attribute_Definition: Combined state, county and tract FIPS code.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character Field
+    Attribute:
+      Attribute_Label: Tractid
+      Attribute_Definition: The census tract identification number.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character Field
+    Attribute:
+      Attribute_Label: State
+      Attribute_Definition: The state FIPS code.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character Field
+    Attribute:
+      Attribute_Label: County
+      Attribute_Definition: The county FIPS code.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character Field
+    Attribute:
+      Attribute_Label: Pop2000
+      Attribute_Definition: The 2000 population
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 17734
+    Attribute:
+      Attribute_Label: White
+      Attribute_Definition: Number of people identified as white.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 17156
+    Attribute:
+      Attribute_Label: Black
+      Attribute_Definition: Number of people identified as black.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 6017
+    Attribute:
+      Attribute_Label: Ameri_es
+      Attribute_Definition: Number of people identified as American Indian, Eskimo, or Aleut.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 66
+    Attribute:
+      Attribute_Label: Asian
+      Attribute_Definition: Number of people identified as Asian
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 1364
+    Attribute:
+      Attribute_Label: Hawn_pi
+      Attribute_Definition: Number of people identified as Hawaiian or Pacific Islander
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 16
+    Attribute:
+      Attribute_Label: Other
+      Attribute_Definition:
+        Number of people identified as belonging to a race other
+        than white, black, American Indian, or Asian.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 1498
+    Attribute:
+      Attribute_Label: Mult_race
+      Attribute_Definition:
+        Number of people identified as belonging to a more than
+        one race
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 284
+    Attribute:
+      Attribute_Label: Hispanic
+      Attribute_Definition:
+        Number of people of all races identified as being of
+        Hispanic origin.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 3141
+    Attribute:
+      Attribute_Label: Males
+      Attribute_Definition: number of males
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 8737
+    Attribute:
+      Attribute_Label: Females
+      Attribute_Definition: number of females
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 8997
+    Attribute:
+      Attribute_Label: Age_under5
+      Attribute_Definition: Number of people 0 to 4 years of age.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 2075
+    Attribute:
+      Attribute_Label: Age_5_17
+      Attribute_Definition: Number of people 5 to 17 years of age.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 4057
+    Attribute:
+      Attribute_Label: Age_18_21
+      Attribute_Definition: Number of people 18 to 21 years of age.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 7296
+    Attribute:
+      Attribute_Label: Age_22_29
+      Attribute_Definition: Number of people 22 to 29 years of age.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 2294
+    Attribute:
+      Attribute_Label: Age_30_39
+      Attribute_Definition: Number of people 30 to 39 years of age.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 3994
+    Attribute:
+      Attribute_Label: Age_40_49
+      Attribute_Definition: Number of people 40 to 49 years of age.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 3172
+    Attribute:
+      Attribute_Label: Age_50_64
+      Attribute_Definition: Number of people 50 to 64years of age.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 2828
+    Attribute:
+      Attribute_Label: Age_65_up
+      Attribute_Definition: Number of people 65 years of age and over.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 2329
+    Attribute:
+      Attribute_Label: Med_age
+      Attribute_Definition: Median age
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.0
+          Range_Domain_Maximum: 51.8
+    Attribute:
+      Attribute_Label: Med_age_M
+      Attribute_Definition: Median age of males
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.0
+          Range_Domain_Maximum: 75.3
+    Attribute:
+      Attribute_Label: Med_age_f
+      Attribute_Definition: Median age of females
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.0
+          Range_Domain_Maximum: 64.2
+    Attribute:
+      Attribute_Label: Households
+      Attribute_Definition: Total number of households.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 6192
+    Attribute:
+      Attribute_Label: Ave_hh_sz
+      Attribute_Definition: Average household size
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.0
+          Range_Domain_Maximum: 3.89
+    Attribute:
+      Attribute_Label: Hsehld_1_m
+      Attribute_Definition: Number of one-person male households.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 969
+    Attribute:
+      Attribute_Label: Hsehld_1_f
+      Attribute_Definition: Number of one-person female households.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 989
+    Attribute:
+      Attribute_Label: Marhh_chd
+      Attribute_Definition: Number of households with a married couple and related children.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 2632
+    Attribute:
+      Attribute_Label: Marhh_no_c
+      Attribute_Definition: Number of households with a married couple and no related children.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 2211
+    Attribute:
+      Attribute_Label: Mhh_child
+      Attribute_Definition: Number of households with a man and children but no wife.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 142
+    Attribute:
+      Attribute_Label: Fhh_child
+      Attribute_Definition: Number of households with a woman and children but no husband.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 924
+    Attribute:
+      Attribute_Label: Families
+      Attribute_Definition: Families
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 5048
+    Attribute:
+      Attribute_Label: Ave_fam_sz
+      Attribute_Definition: Average family size
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 4.27
+    Attribute:
+      Attribute_Label: Hse_units
+      Attribute_Definition: Total number of housing units.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 6670
+    Attribute:
+      Attribute_Label: Vacant
+      Attribute_Definition: Number of housing units that are vacant.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 1183
+    Attribute:
+      Attribute_Label: Owner_occ
+      Attribute_Definition: Number of housing units that are occupied by the owner.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 5380
+    Attribute:
+      Attribute_Label: Renter_occ
+      Attribute_Definition: Number of housing units that are occupied by renters.
+      Attribute_Definition_Source:
+        U.S. Census Bureau, TIGER/Line files,
+        Census 2000 Technical Documentation
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 2576
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Bernardin, Lochmueller and Associates
+      Contact_Position: Environmental Division
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 6200 Vogel Road
+        City: Evansville
+        State_or_Province: IN
+        Postal_Code: 47715-4006
+        Country: USA
+      Contact_Voice_Telephone: 800-423-7411
+      Contact_Facsimile_Telephone:
+        812-479-6262
+        Contact_Website:  www.blainc.com
+      Hours_of_Service: 8am-5pm CST
+
+  Resource_Description: Downloadable Data
+
+  Distribution_Liability:
+    No claims to accuracy are made on this data. It is intended
+    to be used only for general planning purposes. Detailed
+    planning or analysis will require more accurate data.
+    LIMITATION OF LIABILITY
+    The product is provided "AS IS",
+    without any other warranties or conditions, expressed or implied,
+    including, but not limited to, warranties for product quality, or
+    suitability to a particular purpose or use. The risk or liability
+    resulting from the use of this product is assumed by the user.
+    Bernardin, Lochmueller and Associates shares no liability with product
+    users indirect, incidental, special, or consequential damages whatsoever,
+    including, but not limited to, loss of revenue or profit, lost or damaged
+    data or other commercial or economic loss. Bernardin, Lochmueller and Associates
+    is not responsible for claims by a third party. The
+    maximum aggregate liability to the original purchaser shall not exceed
+    the amount paid by you for the product.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20021022
+  Metadata_Review_Date: 20040407
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Bernardin, Lochmueller and Associates
+        Contact_Person: Cinda Bonds
+      Contact_Position: Environmental Biologist
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 6200 Vogel Road
+        City: Evansville
+        State_or_Province: IN
+        Postal_Code: 47715-4006
+        Country: USA
+      Contact_Voice_Telephone: 800-423-7411
+      Contact_Facsimile_Telephone: 812-479-6262
+      Contact_Electronic_Mail_Address: cbonds@blainc.com
+      Hours_of_Service: 8am-5pm CST
+  Metadata_Standard_Name: FGDC CSDGM
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints:
+    This metadata file is intended to accompany the
+    data set identified and received from the BLA/IGS.  It should not to be altered
+    or summarized.  BLA/IGS does not support secondary distribution.  If this
+    data set was received from anyone besides the BLA/IGS, this metadata file and
+    the data set it describes may lack integrity.

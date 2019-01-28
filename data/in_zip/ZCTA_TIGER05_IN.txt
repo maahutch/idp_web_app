@@ -1,0 +1,688 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: United States Department of Commerce, United States Census Bureau (creator)
+      Originator: Indiana Department of Transportation, Business Information and Technology Systems, GIS Mapping (processor)
+      Publication_Date: 20060913
+      Title: ZCTA_TIGER05_IN: ZIP Code Tabulation Areas for Indiana in 2005 (United States Census Bureau, 1:100,000, Polygon Shapefile)
+      Edition: 2005 First Edition TIGER/Line Files
+      Geospatial_Data_Presentation_Form: Vector digital data
+      Publication_Information:
+        Publication_Place: Indianapolis, Indiana
+        Publisher: Indiana Department of Transportation, Business Information and Technology Systems, GIS Mapping
+      Other_Citation_Details:
+        This data set was provided to personnel of the Indiana Geological Survey (IGS) by Indiana
+        Department of Transportation, Business Information and Technology Systems, GIS Mapping personnel.
+        The data set provided was in an ESRI shapefile format, and was named "DOTGIS.ZCTA5_TIGER05_IN."
+        This data set was provided to personnel of the IGS on September 13, 2006.
+        Data is originally from U.S. Department of Commerce, U.S. Census Bureau, Census 2005 TIGER/Line Files (First Edition).
+        Please visit the following URL to find out more about TIGER/Line files:
+
+        http://www.census.gov/geo/www/tiger
+
+        NOTE: The U.S. Department of Commerce, U.S. Census Bureau, Census 2005 TIGER/Line Files (First Edition) contain updated ZIP Code
+        Tabulation Areas (ZCTA's) reflecting U.S. Postal Service ZIP Code changes through October, 2002. There will be no futher updates
+        of ZCTA's until required for the 2010 Census.
+
+      Online_Linkage: http://igs.indiana.edu/arcims/statewide/download.html
+  Description:
+    Abstract:
+      ZCTA_TIGER05_IN.SHP is a polygon shapefile that contains ZIP Code Tabulation Areas (ZCTA's) for the state of Indiana.
+      This data set has been updated using the U.S. Census Bureau's Census 2005 TIGER/Line Files (First Edition), which contain
+      updated ZCTA's reflecting U.S. Postal Service ZIP Code changes through October, 2002. There will be no further updates of
+      ZCTA's until required for the 2010 Census.
+
+      The following is excerpted from an Adobe Acrobat PDF document produced by the U.S. Census Bureau
+      pertaining to ZIP Code Tabulation Areas (ZCTAs):
+
+      "ZIP Code Tabulation Areas (ZCTAs™) are a new statistical entity developed by the U.S. Census Bureau for tabulating summary
+      statistics. ZCTAs are generalized area representations of U.S. Postal Service (USPS) ZIP Code service areas. They represent
+      either USPS five- or three-digit ZIP Code areas. ZCTAs are created based on the following criteria:
+
+      • ZCTAs follow census block boundaries. The ZCTA code for each census block generally represents the majority ZIP Code of the
+      addresses within that census block.
+
+      • ZCTAs are not exact representations of the USPS’s ZIP Code delivery areas.
+
+      • ZCTA codes cover all land and water areas.
+
+      • ZCTAs include some dedicated post office box ZIP Codes in areas served only by post office boxes.
+
+      • ZCTAs representing post office box ZIP Codes generally have more than 10 addresses.
+
+      • ZCTAs exclude unique, single delivery point ZIP Codes, such as those for firms and organizations.
+
+      • ZCTAs are distinct from other Census Bureau statistical areas, such as census tracts, because they are
+      not stable over time and are computer-delineated based on the location of addresses at the time of Census
+      2000 rather than manually delineated by local program participants or Census Bureau staff before the census.
+
+      • ZCTAs are distinct from other representations of ZIP Codes because they are based on address information
+      and ZIP Codes collected or verified during Census 2000 operations.
+
+      • ZCTAs frequently cross county and place boundaries and may occasionally cross from one state into another."
+
+      For a more detailed discussion of how the U.S. Census Bureau created ZCTAs, please open one of the Adobe Acrobat
+      files found at http://www.census.gov/geo/ZCTA/zcta.html
+
+      The following is excerpted from the metadata provided by INDOT for the source shapefile DOTGIS.ZCTA5_TIGER05_IN.SHP:
+
+      "The 2005 First Edition TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER
+      database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area
+      based on the latest available governmental unit boundaries.  The Census TIGER database represents a seamless national file with no
+      overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data
+      set or the files can be combined to cover the whole Nation.  The 2005 First Edition TIGER/Line files consist of line segments
+      representing physical features and governmental and statistical boundaries.  The files contain information distributed over a series
+      of record types for the spatial objects of a county.  There are 19 record types, including the basic data record, the shape coordinate
+      points, and geographic codes that can be used with appropriate software to prepare maps.  Other geographic information contained in
+      the files includes attributes such as feature identifiers/census feature class codes (CFCC) used to differentiate feature types,
+      address ranges and ZIP Codes, codes for legal and statistical entities, latitude/longitude coordinates of linear and point features,
+      landmark point features, area landmarks, and area boundaries."
+
+    Purpose:
+      To provide a GIS data layer of ZCTAs in Indiana.
+
+      The following is excerpted from the metadata provided by INDOT for the source shapefile DOTGIS.ZCTA5_TIGER05_IN.SHP:
+
+      "In order for others to use the information in the Census TIGER database in a geographic information system (GIS) or for other
+      geographic applications, the Census Bureau releases to the public extracts of the database in the form of TIGER/Line files."
+
+    Supplemental_Information:
+      This data set was provided to personnel of the Indiana Geological Survey (IGS) by Indiana Department of Transportation, Business
+      Information and Technology Systems, GIS Mapping personnel. The data set provided was in an ESRI shapefile format. This data set
+      was provided to personnel of the IGS on September 13, 2006. Data is originally from U.S. Department of Commerce, U.S. Census
+      Bureau, Census 2005 TIGER/Line Files (First Edition).
+
+      NOTE: The U.S. Department of Commerce, U.S. Census Bureau, Census 2005 TIGER/Line Files (First Edition) contain updated ZIP Code
+      Tabulation Areas (ZCTA's) reflecting U.S. Postal Service ZIP Code changes through October, 2002. There will be no futher updates
+      of ZCTA's until required for the 2010 Census.
+
+      The following is excerpted from the metadata provided by INDOT for the source shapefile DOTGIS.ZCTA5_TIGER05_IN.SHP:
+
+      "The TIGER/Line data are not in a mapping projection even though most of the features were scanned directly from source maps that were in a
+      projection.  To find out more about TIGER/Line files and other Census TIGER database derived data sets visit http://www.census.gov/geo/www/tiger.
+
+      TIGER/Line files are extracted from the Census TIGER database twice a year or when needed for geographic programs required to support the
+      census and survey programs of the U.S. Census Bureau.  No changes or updates will be made to the 2005 First Edition TIGER/Line files.  Future
+      releases of TIGER/Line files will reflect updates made to the Census TIGER database and will be released under a version numbering system
+      based on the month and year the data is extracted."
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 200505
+    Currentness_Reference: Based on metadata provided by INDOT for the source shapefile DOTGIS.ZCTA5_TIGER05_IN.SHP.
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -88.161392
+      East_Bounding_Coordinate: -84.688378
+      North_Bounding_Coordinate: 41.781127
+      South_Bounding_Coordinate: 37.755397
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: Geography Network Keyword Thesaurus
+      Theme_Keyword: society
+      Theme_Keyword: boundaries
+    Theme:
+      Theme_Keyword_Thesaurus: IGS Metadata Keyword Thesaurus
+      Theme_Keyword: Indiana Geological Survey (IGS)
+      Theme_Keyword: geographic information system (GIS)
+      Theme_Keyword: United States Department of Commerce
+      Theme_Keyword: United States Census Bureau (USCB)
+      Theme_Keyword: ZIP Code Tabulation Area (ZCTA)
+      Theme_Keyword: ZIP Code
+      Theme_Keyword: TIGER/Line
+      Theme_Keyword: TIGER/Line Identification Number (TLID)
+      Theme_Keyword: TIGER
+      Theme_Keyword: polygon
+      Theme_Keyword: vector
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Indiana
+      Place_Keyword: Adams County
+      Place_Keyword: Allen County
+      Place_Keyword: Bartholomew County
+      Place_Keyword: Benton County
+      Place_Keyword: Blackford County
+      Place_Keyword: Boone County
+      Place_Keyword: Brown County
+      Place_Keyword: Carroll County
+      Place_Keyword: Cass County
+      Place_Keyword: Clark County
+      Place_Keyword: Clay County
+      Place_Keyword: Clinton County
+      Place_Keyword: Crawford County
+      Place_Keyword: Daviess County
+      Place_Keyword: Dearborn County
+      Place_Keyword: Decatur County
+      Place_Keyword: Dekalb County
+      Place_Keyword: Delaware County
+      Place_Keyword: Dubois County
+      Place_Keyword: Elkhart County
+      Place_Keyword: Fayette County
+      Place_Keyword: Floyd County
+      Place_Keyword: Fountain County
+      Place_Keyword: Franklin County
+      Place_Keyword: Fulton County
+      Place_Keyword: Gibson County
+      Place_Keyword: Grant County
+      Place_Keyword: Greene County
+      Place_Keyword: Hamilton County
+      Place_Keyword: Hancock County
+      Place_Keyword: Harrison County
+      Place_Keyword: Hendricks County
+      Place_Keyword: Henry County
+      Place_Keyword: Howard County
+      Place_Keyword: Huntington County
+      Place_Keyword: Jackson County
+      Place_Keyword: Jasper County
+      Place_Keyword: Jay County
+      Place_Keyword: Jefferson County
+      Place_Keyword: Jennings County
+      Place_Keyword: Johnson County
+      Place_Keyword: Knox County
+      Place_Keyword: Kosciusko County
+      Place_Keyword: Lagrange County
+      Place_Keyword: Lake County
+      Place_Keyword: LaPorte County
+      Place_Keyword: Lawrence County
+      Place_Keyword: Madison County
+      Place_Keyword: Marion County
+      Place_Keyword: Marshall County
+      Place_Keyword: Martin County
+      Place_Keyword: Miami County
+      Place_Keyword: Monroe County
+      Place_Keyword: Montgomery County
+      Place_Keyword: Morgan County
+      Place_Keyword: Newton County
+      Place_Keyword: Noble County
+      Place_Keyword: Ohio County
+      Place_Keyword: Orange County
+      Place_Keyword: Owen County
+      Place_Keyword: Parke County
+      Place_Keyword: Perry County
+      Place_Keyword: Pike County
+      Place_Keyword: Porter County
+      Place_Keyword: Posey County
+      Place_Keyword: Pulaski County
+      Place_Keyword: Putnam County
+      Place_Keyword: Randolph County
+      Place_Keyword: Ripley County
+      Place_Keyword: Rush County
+      Place_Keyword: Scott County
+      Place_Keyword: Shelby County
+      Place_Keyword: Spencer County
+      Place_Keyword: Starke County
+      Place_Keyword: Steuben County
+      Place_Keyword: St Joseph County
+      Place_Keyword: Sullivan County
+      Place_Keyword: Switzerland County
+      Place_Keyword: Tippecanoe County
+      Place_Keyword: Tipton County
+      Place_Keyword: Union County
+      Place_Keyword: Vanderburgh County
+      Place_Keyword: Vermillion County
+      Place_Keyword: Vigo County
+      Place_Keyword: Wabash County
+      Place_Keyword: Warren County
+      Place_Keyword: Warrick County
+      Place_Keyword: Washington County
+      Place_Keyword: Wayne County
+      Place_Keyword: Wells County
+      Place_Keyword: White County
+      Place_Keyword: Whitley County
+  Access_Constraints:
+    This file is available to anyone, but access may be contingent on written request, specific terms relevant to
+    the agency or person making the request, and/or current freedom of information statutes in the state of Indiana.
+  Use_Constraints:
+    INDIANA GEOLOGICAL SURVEY DATA DISCLAIMER
+
+    This data set is provided by Indiana University, Indiana Geological
+    Survey, and contains data believed to be accurate; however, a degree of error
+    is inherent in all data. This product is distributed "AS-IS" without
+    warranties of any kind, either expressed or implied, including but not
+    limited to warranties of suitability of a particular purpose or use. No
+    attempt has been made in either the designed format or production of these data to
+    define the limits or jurisdiction of any federal, state, or local
+    government.
+
+    These data are intended for use only at the published scale or smaller and are for
+    reference purposes only. They are not to be construed as a legal document or survey
+    instrument. A detailed on-the-ground survey and historical analysis of a single
+    site may differ from these data.
+
+    CREDIT
+
+    It is requested that the U.S. Census Bureau and the Indiana Department of Transportation be cited in any
+    products generated from this data. The following source citation should be included: [ZCTA_TIGER05_IN: ZIP
+    Code Tabulation Areas for Indiana in 2005 (United States Census Bureau, 1:100,000, Polygon Shapefile)].
+
+    WARRANTY
+
+    Indiana University, Indiana Geological Survey warrants that the media on
+    which this product is stored will be free from defect in materials and
+    workmanship for ninety (90) days from the date of acquisition. If such a
+    defect is found, return the media to Publication Sales, Indiana
+    Geological Survey, 611 North Walnut Grove, Bloomington, Indiana 47405,
+    and it will be replaced free of charge.
+
+    LIMITATION OF WARRANTIES AND LIABILITY
+
+    Except for the expressed warranty above, the product is provided "AS IS",
+    without any other warranties or conditions, expressed or implied,
+    including, but not limited to, warranties for product quality, or
+    suitability to a particular purpose or use. The risk or liability
+    resulting from the use of this product is assumed by the user. Indiana
+    University, Indiana Geological Survey shares no liability with product
+    users indirect, incidental, special, or consequential damages whatsoever,
+    including, but not limited to, loss of revenue or profit, lost or damaged
+    data or other commercial or economic loss. Indiana University, Indiana
+    Geological Survey is not responsible for claims by a third party. The
+    maximum aggregate liability to the original purchaser shall not exceed
+    the amount paid by you for the product.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Indiana Department of Transportation, GIS Coordinator
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 100 North Senate Avenue
+        City: Indianapolis
+        State_or_Province: Indiana
+        Postal_Code: 46204
+        Country: USA
+      Contact_Voice_Telephone: 3317-234-3106
+      Contact_Facsimile_Telephone: 317-232-5169
+      Contact_Electronic_Mail_Address: jbump@indot.in.gov
+      Hours_of_Service: 0730 to 1700 Eastern Standard Time
+      Contact_Instructions: Tuesday through Friday, except holidays
+
+  Data_Set_Credit: GIS Map Department, Business Information and Technology Systems, GIS Mapping, supplied by INDOT personnel Joel Bump.
+  Native_Data_Set_Environment: ESRI ArcCatalog version 8.3.0.800 shapefile format, approximately 5.81 Mb
+
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      No formal metadata in the format of the Federal Geographic Data Committee (FGDC)
+      was provided by the U.S. Census Bureau pertaining to the source data for this shapefile.
+      For a more detailed discussion of how the U.S. Census Bureau created ZCTAs, please open
+      one of the Adobe Acrobat files found at:
+
+      http://www.census.gov/geo/ZCTA/zcta.html
+
+      The following is excerpted from an Adobe Acrobat PDF document produced by the U.S. Census Bureau
+      pertaining to ZIP Code Tabulation Areas (ZCTAs): "It is assumed to accurately represent ZIP Code
+      Tabulation Areas (ZCTAs) as defined by the U.S. Census Bureau."
+  Logical_Consistency_Report: This data set was provided by INDOT personnel and is assumed to be accurate.
+  Completeness_Report:
+    The following is excerpted from a Adobe Acrobat PDF document produced by the U.S. Census Bureau pertaining to
+    the ZIP Code Tabulation Areas (ZCTAs):
+
+    "ZIP Code Tabulation Areas (ZCTAs™) are a new statistical entity developed by the U.S. Census Bureau
+    for tabulating summary statistics. ZCTAs are generalized area representations
+    of U.S. Postal Service (USPS) ZIP Code service areas. They represent either USPS five- or three-digit
+    ZIP Code areas. ZCTAs are created based on the following criteria:
+
+    • ZCTAs follow census block boundaries. The ZCTA code for each census block generally represents the
+    majority ZIP Code of the addresses within that census block.
+
+    • ZCTAs are not exact representations of the USPS’s ZIP Code delivery areas.
+
+    • ZCTA codes cover all land and water areas.
+
+    • ZCTAs include some dedicated post office box ZIP Codes in areas served only by post office boxes.
+
+    • ZCTAs representing post office box ZIP Codes generally have more than 10 addresses.
+
+    • ZCTAs exclude unique, single delivery point ZIP Codes, such as those for firms and organizations.
+
+    • ZCTAs are distinct from other Census Bureau statistical areas, such as census tracts, because they are
+    not stable over time and are computer-delineated based on the location of addresses at the time of Census
+    2000 rather than manually delineated by local program participants or Census Bureau staff before the census.
+
+    • ZCTAs are distinct from other representations of ZIP Codes because they are based on address information
+    and ZIP Codes collected or verified during Census 2000 operations.
+
+    • ZCTAs frequently cross county and place boundaries and may occasionally cross from one state into another."
+
+    For a more detailed discussion of how the U.S. Census Bureau created ZCTAs, please open one of the Adobe Acrobat
+    files found at http://www.census.gov/geo/ZCTA/zcta.html
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        No information was provided by the U.S. Census Bureau pertaining to the horizontal positional accuracy
+        of the source data.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: The vertical positional accuracy was not a factor in the production of this data.
+
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: INDOT; Joel Bump
+          Publication_Date: 20060913
+          Title: DOTGIS.ZCTA5_TIGER05_IN.SHP (Indiana ZIP Code Tabulation Areas from 2005 TIGER/Line files)
+          Geospatial_Data_Presentation_Form: Vector digital data
+          Publication_Information:
+            Publication_Place: Indianapolis, Indiana
+            Publisher: INDOT
+          Other_Citation_Details: Data is from U.S.Census Bureau (First Edition) 2005 TIGER/Line files.
+      Source_Scale_Denominator: 100,000
+      Type_of_Source_Media: .ZIP file attachment to an Electronic-Mail (E-Mail)
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 200505
+        Source_Currentness_Reference: Based on metadata provided by INDOT for the source shapefile DOTGIS.ZCTA5_TIGER05_IN.SHP.
+      Source_Citation_Abbreviation: DOTGIS.ZCTA5_TIGER05_IN.SHP
+      Source_Contribution: Indiana ZIP Code Tabulation Areas from 2005 TIGER/Line files
+
+    Process_Step:
+      Process_Description:
+        IGS personnel received an ESRI shapefile named DOTGIS.ZCTA5_TIGER05_IN.SHP from INDOT personnel on September 13, 2006.
+        DOTGIS.ZCTA5_TIGER05_IN.SHP was loaded into ESRI ArcMap and examined for completeness, attribute accuracy, and spatial
+        accuracy. IGS Personnel then deleted the following atttribute fields: "OBJECTID," "AREA,", "PERIMETER," "ZIPCODES_,"
+        "ZIPCODES_I," "ZIPCODE," and "NAME." IGS personnel then saved the shapefile as ZCTA_TIGER05_IN. It should also be noted that
+        portions of the associated metadata provided by INDOT for DOTGIS.ZCTA5_TIGER05_IN.SHP were extracted and included in this
+        metadata file.
+      Source_Used_Citation_Abbreviation: DOTGIS.ZCTA5_TIGER05_IN.SHP
+      Process_Date: 20061117
+      Source_Produced_Citation_Abbreviation: ZCTA_TIGER05_IN.SHP
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: Indiana Geological Survey
+            Contact_Person: Chris Dintaman
+          Contact_Position: Geologist, GIS Specialist
+          Contact_Address:
+            Address_Type: Mailing and physical address
+            Address: 611 North Walnut Grove
+            City: Bloomington
+            State_or_Province: Indiana
+            Postal_Code: 47405-2208
+            Country: USA
+          Contact_Voice_Telephone: 812-856-5654
+          Contact_Facsimile_Telephone: 812-855-2862
+          Contact_Electronic_Mail_Address: cdintama@indiana.edu
+          Hours_of_Service: 0800 to 1700 Eastern Standard Time
+          Contact_Instructions: Monday through Friday, except holidays
+
+    Process_Step:
+      Process_Description:
+        This metadata file was pre-parsed and parsed using CNS (Chew and Spit, v. 2.6.1) and MP (Metadata
+        Parser, v. 2.7.1) software written by Peter N. Schweitzer (U.S. Geological Survey). The errors generated
+        by MP were all addressed and corrected, except that no values were assigned to "Abscissa_Resolution"
+        and "Ordinate_Resolution."
+      Process_Date: 20061117
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: Indiana Geological Survey
+            Contact_Person: Chris Dintaman
+          Contact_Position: Geologist, GIS Specialist
+          Contact_Address:
+            Address_Type: Mailing and physical address
+            Address: 611 North Walnut Grove
+            City: Bloomington
+            State_or_Province: Indiana
+            Postal_Code: 47405-2208
+            Country: USA
+          Contact_Voice_Telephone: 812-856-5654
+          Contact_Facsimile_Telephone: 812-855-2862
+          Contact_Electronic_Mail_Address: cdintama@indiana.edu
+          Hours_of_Service: 0800 to 1700 Eastern Standard Time
+          Contact_Instructions: Monday through Friday, except holidays
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference: Indiana
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 1877
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: Universal Transverse Mercator
+        Universal_Transverse_Mercator:
+          UTM_Zone_Number: 16
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.999600
+            Longitude_of_Central_Meridian: -87.000000
+            Latitude_of_Projection_Origin: 0.000000
+            False_Easting: 500000.000000
+            False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Row and column
+        Coordinate_Representation:
+          Abscissa_Resolution:
+          Ordinate_Resolution:
+        Planar_Distance_Units: Meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.0000000
+      Denominator_of_Flattening_Ratio: 298.26
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: ZCTA_TIGER05_IN.dbf
+      Entity_Type_Definition: Shapefile Attribute Table
+      Entity_Type_Definition_Source: None
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Feature Identification Number
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Polygon
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: ZCTA5
+      Attribute_Definition: 5-Digit ZIP Code Tabulation Area, Year 2005 (updated through October, 2002)
+      Attribute_Definition_Source: TIGER Technical Documentation
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: 5-Digit ZIP Code Tabulation Area, Year 2005 (Note: Special ZTCA codes of 3-Digit values + "HH" are large water features)
+    Attribute:
+      Attribute_Label: SHAPE_AREA
+      Attribute_Definition: Polygon Area
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1400.504249
+          Range_Domain_Maximum: 765820335.182
+          Attribute_Units_of_Measure: Square Meters
+          Attribute_Measurement_Resolution: 0.000001
+    Attribute:
+      Attribute_Label: SHAPE_LEN
+      Attribute_Definition: polygon length
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 172.376178
+          Range_Domain_Maximum: 227065.969089
+          Attribute_Units_of_Measure: Meters
+          Attribute_Measurement_Resolution: 0.000001
+
+  Overview_Description:
+    Entity_and_Attribute_Overview:
+      The following is excerpted from the metadata provided by INDOT for the source shapefile DOTGIS.ZCTA5_TIGER05_IN.SHP:
+
+      "The TIGER/Line files contain data describing three major types of features/entities;
+
+      Line Features -
+
+      (1) Roads
+
+      (2) Railroads
+
+      (3) Hydrography
+
+      (4) Miscellaneous transportation features and selected power lines and pipe lines
+
+      (5) Legal (governmental unit) and statistical boundaries
+
+      Landmark Features -
+
+      (1) Point landmarks, e.g., schools and churches; sporadic coverage added on an as-needed basis
+
+      (2) Area landmarks, e.g., Parks and cemeteries; sporadic coverage added on an as-needed basis
+
+      Polygon features -
+
+      (1) Geographic entity codes for areas used to tabulate the Census 2000 census statistical data and governmental
+      unit boundaries legally in effect as of the latest Boundary and Annexation Survey (BAS)
+
+      (2) Locations of area landmarks
+
+      The line features and polygon information form the majority of data in the TIGER/Line files. Some of the data/attributes
+      describing the lines include coordinates, feature identifiers (names), CFCCs (used to identify the most noticeable
+      characteristic of a feature), address ranges, and geographic entity codes.
+
+      The Census Bureau includes landmark features on an as-needed-basis and has made no attempt to ensure that all instances of
+      a particular landmark feature were included. The TIGER/Line files contain point and area labels that describe landmark features
+      and provide locational reference. Area landmarks consist of a feature name or label and feature Landmarks may overlap or refer to
+      the same set of polygons.
+
+      The Census TIGER database uses collections of spatial objects (points, lines, and polygons) to model or describe real-world
+      geography. The Census Bureau uses these spatial objects to represent features such as streets, rivers, and political
+      boundaries and assigns attributes to these features to identify and describe specific features such as the 500 block of Market
+      Street in Philadelphia, Pennsylvania."
+
+    Entity_and_Attribute_Detail_Citation:
+      The following is excerpted from the metadata provided by INDOT for the source shapefile DOTGIS.ZCTA5_TIGER05_IN.SHP:
+
+      "U.S. Census Bureau, TIGER/Line files, 2005 First Edition Technical Documentation.  The TIGER/Line documentation defines
+      the terms and definitions used within the files."
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Indiana Geological Survey
+        Contact_Person: Publication Sales
+      Contact_Position: Clerk
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 611 North Walnut Grove
+        City: Bloomington
+        State_or_Province: Indiana
+        Postal_Code: 47405-2208
+        Country: USA
+      Contact_Voice_Telephone: 812-855-7636
+      Contact_Facsimile_Telephone: 812-855-2862
+      Contact_Electronic_Mail_Address: IGSInfo@indiana.edu
+      Hours_of_Service: 0800 to 1700 Eastern Standard Time
+      Contact_Instructions: Monday through Friday, except holidays
+
+  Resource_Description: Downloadable data
+
+  Distribution_Liability:
+    CREDIT
+
+    It is requested that the U.S. Census Bureau and the Indiana Department of Transportation be cited in any
+    products generated from this data. The following source citation should be included: [ZCTA_TIGER05_IN: ZIP
+    Code Tabulation Areas for Indiana in 2005 (United States Census Bureau, 1:100,000, Polygon Shapefile)].
+
+    WARRANTY
+
+    Indiana University, Indiana Geological Survey warrants that the media on
+    which this product is stored will be free from defect in materials and
+    workmanship for ninety (90) days from the date of acquisition. If such a
+    defect is found, return the media to Publication Sales, Indiana
+    Geological Survey, 611 North Walnut Grove, Bloomington, Indiana 47405-2208,
+    and it will be replaced free of charge.
+
+    LIMITATION OF WARRANTIES AND LIABILITY
+
+    Except for the expressed warranty above, the product is provided "AS IS",
+    without any other warranties or conditions, expressed or implied,
+    including, but not limited to, warranties for product quality, or
+    suitability to a particular purpose or use. The risk or liability
+    resulting from the use of this product is assumed by the user. Indiana
+    University, Indiana Geological Survey shares no liability with product
+    users indirect, incidental, special, or consequential damages whatsoever,
+    including, but not limited to, loss of revenue or profit, lost or damaged
+    data or other commercial or economic loss. Indiana University, Indiana
+    Geological Survey is not responsible for claims by a third party. The
+    maximum aggregate liability to the original purchaser shall not exceed
+    the amount paid by you for the product.
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Indiana Department of Transportation
+      Contact_Position: GIS Administrator
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 100 North Senate Ave. Rm # 801-N
+        City: Indianapolis
+        State_or_Province: Indiana
+        Postal_Code: 46206-6015
+        Country: USA
+      Contact_Voice_Telephone: 3317-234-3106
+      Contact_Facsimile_Telephone: 317-232-5169
+      Contact_Electronic_Mail_Address: jbump@indot.in.gov
+      Hours_of_Service: 0730 to 1700 Eastern Standard Time
+      Contact_Instructions: Tuesday through Friday, except holidays
+
+  Resource_Description: Downloadable data
+
+  Distribution_Liability:
+    The following is excerpted from the metadata provided by INDOT for the source shapefile DOTGIS.ZCTA5_TIGER05_IN.SHP:
+
+    "    INDOT Disclaimer
+    AS OF 01\01\2001
+
+    The Indiana Department of Transportation (INDOT) Provides these geographic data "as is" and the user accepts the data "as is", and assumes
+    all risks associated with its use.  By acceptance of this data, the user agrees not to transmit this data or provide access to it, or any
+    part of it, to another party unless the user shall include with the data a copy of this disclaimer.  INDOT makes no guarantee or warranty
+    concerning the accuracy of information contained in the geographic data.  INDOT further makes no warranties, either expressed or implied as
+    to any other matter whatsoever, including, without limitation, the condition of any product, or its fitness for any particular purpose. The
+    burden for determining fitness for use lies entirely with the user. Although these data have been processed successfully on computers of
+    INDOT, no warranty, expressed or implied, is made by INDOT regarding the use of these data on any other system, nor does the fact of distribution
+    constitute or imply any such warranty.
+
+    In no event shall INDOT have any liability whatsoever for payment of any consequential, incidental, indirect, special, or tort damages of
+    any kind, including, but not limited to, any loss of profits arising out of or reliance on the geographic data or arising out of the delivery,
+    installation, operation, or support by INDOT."
+
+Metadata_Reference_Information:
+  Metadata_Date: 20061117
+  Metadata_Review_Date: 20061117
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Indiana Geological Survey
+        Contact_Person: Chris Dintaman
+      Contact_Position: Geologist, GIS Specialist
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 611 North Walnut Grove
+        City: Bloomington
+        State_or_Province: Indiana
+        Postal_Code: 47405-2208
+        Country: USA
+      Contact_Voice_Telephone: 812-856-5654
+      Contact_Facsimile_Telephone: 812-855-2862
+      Contact_Electronic_Mail_Address: cdintama@indiana.edu
+      Hours_of_Service: 0800 to 1700 Eastern Standard Time
+      Contact_Instructions: Monday through Friday, except holidays
+  Metadata_Standard_Name: FGDC CSDGM
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints:
+    This metadata file is intended to accompany the
+    data set identified and received from the IGS.  It should not to be altered
+    or summarized.  IGS does not support secondary distribution.  If this
+    data set was received from anyone besides the IGS, this metadata file and
+    the data set it describes may lack integrity.
