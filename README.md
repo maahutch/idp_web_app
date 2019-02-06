@@ -77,8 +77,8 @@ The naming of the functions in this script corresponds to their parent functions
 
 `data` <- The data directory contains various files that supplement the visualizations.
 
-    - The in_ct and in_zip directories contain shape files for the zip code and census   tracts in Marion county. Early in the app development there was an idea that the map applications would visualize economic and demographic data under the mapping of the organizations and allowing users to switch between county, zip, census tract etc. level data. However, people have lost interest in this idea. The maps still include choropleth's at the zip code data is made up (op_zip_placeholder.csv) and includes no interactivity.
+- The in_ct and in_zip directories contain shape files for the zip code and census   tracts in Marion county. Early in the app development there was an idea that the map applications would visualize economic and demographic data under the mapping of the organizations and allowing users to switch between county, zip, census tract etc. level data. However, people have lost interest in this idea. The maps still include choropleth's at the zip code data is made up (op_zip_placeholder.csv) and includes no interactivity.
 
-    - The remaining files are those written by the application and includes counts of organizations being mapped. The numbers in these files are included below the visualization.
+- The remaining files are those written by the application and includes counts of organizations being mapped. The numbers in these files are included below the visualization.
 
 `www` <- This directory contains a number of images used in the application. Includes the map and network diagram legends and the IUNI favicon that appears on the web browser.
