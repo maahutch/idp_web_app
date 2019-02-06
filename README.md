@@ -41,7 +41,7 @@ The file contains a library of functions for passing arguments to the python lib
 `simpleCap` <- Called throughout. Accepts lowercase character string and outputs a character string with the first character capitalized.
 
 
-## Potential Collaborators
+#### Potential Collaborators Map
 
 `all.oi` <- Generates map of all organizations involved in selected topic area.
 
@@ -55,4 +55,13 @@ The file contains a library of functions for passing arguments to the python lib
 
 `org.cat.match` <- accepts category combinations and source org and outputs the map or potential organizational collaborators.
 
-`get.match.org.oi` <- Called by `org.cat.match`. Builds the query depending on number of matching categories
+`get.match.org.oi` <- Called by `org.cat.match`. Builds the query depending on number of matching categories requested by the user and returns data for visualization.
+
+`collab.org.count` <- Reads csv created by org.cat.match and displays count of organizations being mapped.
+
+### Involved Organizations Maps
+
+`make_net` <- Creates the initial network diagram. Accepts arguments as to the issue area (Opioids/Workforce Development), whether or not to show the unconnected nodes and what algorithm should be used to size the nodes. Also merges some of the nodes from the database to clean up the visualization. For example 'Marion County Sheriff Jail' I and 'Marion County Sheriff Jail II' are merged to for 'Marion County Sheriff Jail'. This is the function that applies the colors to the nodes.
+
+
+## db_queries.py
