@@ -59,9 +59,26 @@ The file contains a library of functions for passing arguments to the python lib
 
 `collab.org.count` <- Reads csv created by org.cat.match and displays count of organizations being mapped.
 
-### Involved Organizations Maps
+#### Involved Organizations Maps
 
 `make_net` <- Creates the initial network diagram. Accepts arguments as to the issue area (Opioids/Workforce Development), whether or not to show the unconnected nodes and what algorithm should be used to size the nodes. Also merges some of the nodes from the database to clean up the visualization. For example 'Marion County Sheriff Jail' I and 'Marion County Sheriff Jail II' are merged to for 'Marion County Sheriff Jail'. This is the function that applies the colors to the nodes.
 
 
 ## db_queries.py
+
+This script handles the interaction with the database sending the queries/arguments from the frontend and returning the data for the visualization. The code is written in python 3 to take advantage of the neo4j driver or python. The RNeo4j library that allows connectivity from an R environment to Neo4j is no longer supported and relies on the http protocol. The python driver uses the faster bolt protocol and is actively maintained by Neo4j.
+The naming of the functions in this script corresponds to their parent functions in the savi_fun.R but with the suffix '_py'. For example, `get_cat_py` in the db_queries.py script is called by `getCat` function in the savi_fun.R script.
+
+
+
+## Additional Files
+
+`purple.png`, `blue.png` etc. <- These files are used a map pins in both the 'Potential Collaborators Map' and 'Pathways Map'.
+
+`data` <- The data directory contains various files that supplement the visualizations.
+
+    - The in_ct and in_zip directories contain shape files for the zip code and census   tracts in Marion county. Early in the app development there was an idea that the map applications would visualize economic and demographic data under the mapping of the organizations and allowing users to switch between county, zip, census tract etc. level data. However, people have lost interest in this idea. The maps still include choropleth's at the zip code data is made up (op_zip_placeholder.csv) and includes no interactivity.
+
+    - The remaining files are those written by the application and includes counts of organizations being mapped. The numbers in these files are included below the visualization.
+
+`www` <- This directory contains a number of images used in the application. Includes the map and network diagram legends and the IUNI favicon that appears on the web browser.
